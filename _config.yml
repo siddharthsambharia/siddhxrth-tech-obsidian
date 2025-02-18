@@ -5,7 +5,7 @@ exclude:             ['_includes/notes_graph.json']
 
 # Add these two lines - replace with your values
 baseurl: '/siddhxrth-tech-obsidian'  # Your repository name
-url: 'https://siddharthsambharia.github.io'  # Your GitHub Pages URL
+url: 'https://siddhxrth.tech'  # Your GitHub Pages URL
 
 # If you are using a host that cannot resolve URLs that do
 # not end with .html (such as Neocities), set this to 'true'.
