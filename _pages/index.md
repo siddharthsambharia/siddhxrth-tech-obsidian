@@ -5,15 +5,29 @@ id: home
 permalink: /
 ---
 
-# Welcome! 🌱
+# hi, i'm siddharth.
 
-<p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
-</p>
+i'm most active on [X](https://x.com/siddhxrth10) (sometimes more than i would like)
 
-This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
 
-The easiest way to get started is to read this [step-by-step guide explaining how to set this up from scratch](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll).
+I spend my weekdays working in [Portkey](https://portkey.ai) and doing cool projects on weekends. I have been lucky to discover the work of inspiring people from around the world early in my life, which has greatly influenced my own work and ideas
+
+---
+## Writing
+
+this website is a WIP. i plan to start writing, mostly to capture a trend of changes in my thinking
+
+---
+## Things I Believe
+
+#### inspired by [nat](https://nat.org), some things i believe:
+
+- The cost of energy will come close to 0 in the coming decades
+- number of iterations is the key to successful things
+- Good artists copy, great artists steal
+
+i will probably add more to this list soon --- meanwhile feel free to say hi on [sam.siddharth10@gmail.com](mailto:sam.siddharth10@gmail.com?subject=Hello!)!
+
 
 <strong>Recently updated notes</strong>
 
