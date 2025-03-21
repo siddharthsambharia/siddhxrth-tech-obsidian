@@ -34,7 +34,7 @@ i will probably add more to this list soon --- meanwhile feel free to say hi onÂ
 
 i like the idea of writer builders mentioned [here](https://www.workingtheorys.com/p/writer-builder)
 
-there are few things that can give you asymmetric returns in life. this website is one experiment to get asymmetric returns. hopefully someone is interested in what i write and it lands into something tangible. or maybe my future wife reads this,, i don't know
+there are few things that can give you asymmetric returns in life. this website is one experiment to get asymmetric returns. hopefully someone is interested in what i write and it lands into something tangible. or maybe my future wife reads this, i don't know
 
 here's a list of cool people  on the internet that inspired me to write this (with some web presence):
 
@@ -44,6 +44,7 @@ here's a list of cool people  on the internet that inspired me to write this (wi
 - Alexey Guzey
 - Dwarkesh Patel
 - Patrick Collison
+- Nat Friedman
 
 (tool lazy to add links, you can find them yourself!)
 
