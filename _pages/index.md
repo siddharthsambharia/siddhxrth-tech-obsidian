@@ -9,7 +9,7 @@ permalink: /
 
 i'm most active on [X](https://x.com/siddhxrth10) (sometimes more than i would like)
 
-i spend my weekdays working in [Portkey](https://portkey.ai) and doing cool projects on weekends. I have been lucky to discover the work of inspiring people from around the world early in my life, which has greatly influenced my own work and ideas
+i spend my weekdays working in [Portkey](https://portkey.ai) and doing side projects on weekends. I have been lucky to discover the work of inspiring people from around the world early in my life, which has greatly influenced my own work and ideas
 
 ---
 ## writing
@@ -24,6 +24,7 @@ this website is a WIP. i plan to start writing, mostly to capture a trend of cha
 - the cost of energy will come close to 0 in the coming decades
 - number of iterations is the key to successful things
 - good artists copy, great artists steal
+- agency is the most important thing if intelligence becomes democratized
 
 i will probably add more to this list soon --- meanwhile feel free to say hi on [sam.siddharth10@gmail.com](mailto:sam.siddharth10@gmail.com?subject=Hello!)!
 
@@ -41,7 +42,7 @@ here's a list of cool people  on the internet that inspired me to write this (wi
 - Paras Chopra
 - Paul Graham
 - Alexey Guzey
-- Dwarkesh patel
+- Dwarkesh Patel
 - Patrick Collison
 
 (tool lazy to add links, you can find them yourself!)
