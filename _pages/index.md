@@ -16,6 +16,8 @@ i spend my weekdays working in [Portkey](https://portkey.ai) and doing side pr
 
 this website is a WIP. i plan to start writing, mostly to capture a trend of changes in my thinking
 
+- [How to develop taste for good work?](taste)
+
 ---
 ## things i believe
 
